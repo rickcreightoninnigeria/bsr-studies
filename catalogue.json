@@ -1,0 +1,440 @@
+{
+  "catalogueVersion": 1,
+  "baseUrl": "https://rickcreightoninnigeria.github.io/bsr-studies/",
+  "studies": [
+    {
+      "studyId": "1_john_for_today_v001",
+      "title": "1 John for Today",
+      "subtitle": "Bible Study",
+      "version": "1.04",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "New Testament",
+          "Section": "General Letters & Revelation",
+          "Subsection": "1 John"
+        }
+      ],
+      "file": "studies/1_john_for_today_v001.estudy",
+      "size": 200302,
+      "sha256": "5954926fedbb3252a64744b539e9f9fa00ba59a58a8470930ed8ba133c139198"
+    },
+    {
+      "studyId": "bible_overview_nt_v001",
+      "title": "The Story of the Bible: New Testament",
+      "subtitle": "God’s people, in God’s place, under God’s rule",
+      "version": "1.06",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "New Testament",
+          "Section": "Overview",
+          "Subsection": "Biblical Theology"
+        }
+      ],
+      "file": "studies/bible_overview_nt_v001.estudy",
+      "size": 267876,
+      "sha256": "15f9fd3f4d643b80aa25699d52bc186e065e1026144f9b0e9b450405692e8ea8"
+    },
+    {
+      "studyId": "bible_overview_ot_v001",
+      "title": "The Story of the Bible: Old Testament",
+      "subtitle": "God’s people, in God’s place, under God’s rule",
+      "version": "1.06",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Old Testament",
+          "Section": "Overview",
+          "Subsection": "Biblical Theology"
+        }
+      ],
+      "file": "studies/bible_overview_ot_v001.estudy",
+      "size": 297954,
+      "sha256": "f07b605c62ac311632d95859b7a2f3bcf04967fde15b78d605838e22c5d5d74d"
+    },
+    {
+      "studyId": "conversion_v001",
+      "title": "Conversion",
+      "subtitle": "New not (just) Nice",
+      "version": "1.02",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Beliefs",
+          "Section": "Salvation",
+          "Subsection": "Conversion"
+        },
+        {
+          "Shelf": "Life",
+          "Section": "Character & Sanctification",
+          "Subsection": "Identity in Christ"
+        },
+        {
+          "Shelf": "Ministry",
+          "Section": "Discipleship & Mentoring",
+          "Subsection": "One-to-One Ministry"
+        }
+      ],
+      "file": "studies/conversion_v001.estudy",
+      "size": 274348,
+      "sha256": "09d33928162583e2cb270826529b97a731c587f95422fe7323e4bb4e2a9e1359"
+    },
+    {
+      "studyId": "find_rest_v001",
+      "title": "Find Rest for your Soul",
+      "subtitle": "Escaping addictive behaviour by finding a better joy",
+      "version": "1.03",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Beliefs",
+          "Section": "Evil and the Fall",
+          "Subsection": "Temptation"
+        },
+        {
+          "Shelf": "Life",
+          "Section": "Character & Sanctification",
+          "Subsection": "Overcoming Sin"
+        }
+      ],
+      "file": "studies/find_rest_v001.estudy",
+      "size": 333453,
+      "sha256": "f2452fbbf61a24b013617bf763ed4e882c68e7b94195d766a74407027dcd2cc3"
+    },
+    {
+      "studyId": "grow_in_christ_volume_1_v001",
+      "title": "Grow in Christ (volume 1)",
+      "subtitle": "Discipleship course",
+      "version": "1.04",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Beliefs",
+          "Section": "Salvation",
+          "Subsection": "Sanctification"
+        },
+        {
+          "Shelf": "Life",
+          "Section": "Character & Sanctification",
+          "Subsection": "Growth in Grace"
+        }
+      ],
+      "file": "studies/grow_in_christ_volume_1_v001.estudy",
+      "size": 296713,
+      "sha256": "5dbde638529366d0e260d4bb631681183e2f44abff173b74d27a6c7b0f987240"
+    },
+    {
+      "studyId": "grow_in_christ_volume_2_v001",
+      "title": "Grow in Christ (volume 2)",
+      "subtitle": "Discipleship course",
+      "version": "1.0",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Beliefs",
+          "Section": "Salvation",
+          "Subsection": "Sanctification"
+        },
+        {
+          "Shelf": "Life",
+          "Section": "Character & Sanctification",
+          "Subsection": "Growth in Grace"
+        }
+      ],
+      "file": "studies/grow_in_christ_volume_2_v001.estudy",
+      "size": 247578,
+      "sha256": "f7fa739f74fcc19170406be5b4eca7bfcddba27b0493a8fc8b9e5e13cdc3a6ad"
+    },
+    {
+      "studyId": "introducing_acts_v001",
+      "title": "Introducing Acts",
+      "subtitle": "An eight-session overview of the book of Acts",
+      "version": "1.0",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "New Testament",
+          "Section": "Gospels & Acts",
+          "Subsection": "Acts"
+        }
+      ],
+      "file": "studies/introducing_acts_v001.estudy",
+      "size": 341945,
+      "sha256": "e85bfd9e4957bb9ccaa6352c0a67e2b08a1d9e831b3351302fc505c3b58a0aa3"
+    },
+    {
+      "studyId": "introducing_ephesians_v001",
+      "title": "Introducing Ephesians",
+      "subtitle": "Seven sessions in Paul’s letter",
+      "version": "1.0",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "New Testament",
+          "Section": "Paul’s Letters",
+          "Subsection": "Ephesians"
+        }
+      ],
+      "file": "studies/introducing_ephesians_v001.estudy",
+      "size": 123477,
+      "sha256": "b0255f0567985e26858c20df4ec7bed8cc34609ec081d8ecc27132941d0fdd6f"
+    },
+    {
+      "studyId": "introducing_genesis_v001",
+      "title": "Introducing Genesis",
+      "subtitle": "Bible Study",
+      "version": "1.04",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Old Testament",
+          "Section": "Law",
+          "Subsection": "Genesis"
+        },
+        {
+          "Shelf": "Beliefs",
+          "Section": "Creation & Humanity",
+          "Subsection": "Creation"
+        }
+      ],
+      "file": "studies/introducing_genesis_v001.estudy",
+      "size": 358962,
+      "sha256": "8270af2a9158accfdbc437fd9e5aa19afe85bf8cca78bccfd2e8db1bd4e747f3"
+    },
+    {
+      "studyId": "introducing_mark_v001",
+      "title": "Introducing Mark",
+      "subtitle": "Bible Study",
+      "version": "2.01",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "New Testament",
+          "Section": "Gospels & Acts",
+          "Subsection": "Mark"
+        }
+      ],
+      "file": "studies/introducing_mark_v001.estudy",
+      "size": 198342,
+      "sha256": "2f0122481eddf34da58e33b7994dd842bfa0af023ab97916cbe69bd0de2c1f5b"
+    },
+    {
+      "studyId": "travelling_with_jonah_v001",
+      "title": "Travelling with Jonah",
+      "subtitle": "A Double Journey",
+      "version": "1.12",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Old Testament",
+          "Section": "Prophets",
+          "Subsection": "Jonah"
+        },
+        {
+          "Shelf": "Beliefs",
+          "Section": "God",
+          "Subsection": "Compassion & Mercy"
+        }
+      ],
+      "file": "studies/travelling_with_jonah_v001.estudy",
+      "size": 941446,
+      "sha256": "d5e56290ea56b97b0b516c02c9fbe6ccd8c4b4a07f4f879757a801191f38ebec"
+    },
+    {
+      "studyId": "truth_unlocked_volume_1_v001",
+      "title": "Truth Unlocked (volume 1)",
+      "subtitle": "The Foundations of Christian Belief",
+      "version": "1.04",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Beliefs",
+          "Section": "Overview",
+          "Subsection": "Foundations"
+        }
+      ],
+      "file": "studies/truth_unlocked_volume_1_v001.estudy",
+      "size": 142147,
+      "sha256": "c6cc28d06a490b70a78eabaa08f5073f6273acf0593f5b8775a49044a77a0e6c"
+    },
+    {
+      "studyId": "truth_unlocked_volume_2_v001",
+      "title": "Truth Unlocked (volume 2)",
+      "subtitle": "Christian Living",
+      "version": "1.02",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Beliefs",
+          "Section": "Overview",
+          "Subsection": "Foundations"
+        }
+      ],
+      "file": "studies/truth_unlocked_volume_2_v001.estudy",
+      "size": 116868,
+      "sha256": "ed38e63d9b3af5ffeeac0e61cfc1cf10aca469a2ca27a17120f30bd1c67dc0fe"
+    },
+    {
+      "studyId": "working_for_the_good_v001",
+      "title": "Working for the Good",
+      "subtitle": "Faith, Love, and Worship in our Everyday Labour",
+      "version": "1.01",
+      "languages": [
+        "en"
+      ],
+      "shelves": [
+        {
+          "Shelf": "Beliefs",
+          "Section": "Creation & Humanity",
+          "Subsection": "Purpose"
+        },
+        {
+          "Shelf": "Life",
+          "Section": "Work & Vocation",
+          "Subsection": "Work Life"
+        }
+      ],
+      "file": "studies/working_for_the_good_v001.estudy",
+      "size": 259925,
+      "sha256": "2bc524665f07e9290913299d0e7e1a894cb968a176daf9b750897ac8e49a8ab1"
+    }
+  ],
+  "bundles": [
+    {
+      "id": "path-foundations",
+      "type": "pathway",
+      "title": "1. Foundations",
+      "file": "bundles/path-foundations.zip",
+      "size": 974327,
+      "studyIds": [
+        "introducing_genesis_v001",
+        "introducing_mark_v001",
+        "truth_unlocked_volume_1_v001",
+        "conversion_v001"
+      ]
+    },
+    {
+      "id": "path-growing-roots",
+      "type": "pathway",
+      "title": "2. Growing Roots",
+      "file": "bundles/path-growing-roots.zip",
+      "size": 979961,
+      "studyIds": [
+        "bible_overview_ot_v001",
+        "bible_overview_nt_v001",
+        "truth_unlocked_volume_2_v001",
+        "grow_in_christ_volume_1_v001"
+      ]
+    },
+    {
+      "id": "path-live-on-mission",
+      "type": "pathway",
+      "title": "4. Live on a Mission",
+      "file": "bundles/path-live-on-mission.zip",
+      "size": 1283687,
+      "studyIds": [
+        "travelling_with_jonah_v001",
+        "introducing_acts_v001"
+      ]
+    },
+    {
+      "id": "path-fighting-sin",
+      "type": "pathway",
+      "title": "Fighting Sin",
+      "file": "bundles/path-fighting-sin.zip",
+      "size": 754069,
+      "studyIds": [
+        "introducing_ephesians_v001",
+        "find_rest_v001",
+        "grow_in_christ_volume_1_v001"
+      ]
+    },
+    {
+      "id": "shelf-new-testament-gospels-acts",
+      "type": "shelf",
+      "title": "New Testament: Gospels & Acts",
+      "file": "bundles/shelf-new-testament-gospels-acts.zip",
+      "size": 540573,
+      "studyIds": [
+        "introducing_mark_v001",
+        "introducing_acts_v001"
+      ]
+    },
+    {
+      "id": "shelf-beliefs-creation-humanity",
+      "type": "shelf",
+      "title": "Beliefs: Creation & Humanity",
+      "file": "bundles/shelf-beliefs-creation-humanity.zip",
+      "size": 619177,
+      "studyIds": [
+        "introducing_genesis_v001",
+        "working_for_the_good_v001"
+      ]
+    },
+    {
+      "id": "shelf-beliefs-salvation",
+      "type": "shelf",
+      "title": "Beliefs: Salvation",
+      "file": "bundles/shelf-beliefs-salvation.zip",
+      "size": 819033,
+      "studyIds": [
+        "conversion_v001",
+        "grow_in_christ_volume_1_v001",
+        "grow_in_christ_volume_2_v001"
+      ]
+    },
+    {
+      "id": "shelf-life-character-sanctification",
+      "type": "shelf",
+      "title": "Life: Character & Sanctification",
+      "file": "bundles/shelf-life-character-sanctification.zip",
+      "size": 1152622,
+      "studyIds": [
+        "conversion_v001",
+        "find_rest_v001",
+        "grow_in_christ_volume_1_v001",
+        "grow_in_christ_volume_2_v001"
+      ]
+    },
+    {
+      "id": "shelf-beliefs-overview",
+      "type": "shelf",
+      "title": "Beliefs: Overview",
+      "file": "bundles/shelf-beliefs-overview.zip",
+      "size": 259289,
+      "studyIds": [
+        "truth_unlocked_volume_1_v001",
+        "truth_unlocked_volume_2_v001"
+      ]
+    }
+  ]
+}
