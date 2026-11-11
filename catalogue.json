@@ -183,7 +183,7 @@
       "studyId": "introducing_ephesians_v001",
       "title": "Introducing Ephesians",
       "subtitle": "Seven sessions in Paul’s letter",
-      "version": "1.0",
+      "version": "1.01",
       "languages": [
         "en"
       ],
@@ -195,8 +195,8 @@
         }
       ],
       "file": "studies/introducing_ephesians_v001.estudy",
-      "size": 123477,
-      "sha256": "b0255f0567985e26858c20df4ec7bed8cc34609ec081d8ecc27132941d0fdd6f"
+      "size": 123740,
+      "sha256": "11d8e3b9481b7cd83e2031f3a830524fb3f488f11a154f37e00b11b7d1c76a39"
     },
     {
       "studyId": "introducing_genesis_v001",
@@ -371,7 +371,7 @@
       "type": "pathway",
       "title": "Fighting Sin",
       "file": "bundles/path-fighting-sin.zip",
-      "size": 754069,
+      "size": 754332,
       "studyIds": [
         "introducing_ephesians_v001",
         "find_rest_v001",
