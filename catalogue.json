@@ -195,8 +195,8 @@
         }
       ],
       "file": "studies/introducing_ephesians_v001.estudy",
-      "size": 123740,
-      "sha256": "11d8e3b9481b7cd83e2031f3a830524fb3f488f11a154f37e00b11b7d1c76a39"
+      "size": 123752,
+      "sha256": "7e1668d1d2fc3e23b5dd85f82fe533c454f7a9d37f4ade76e593f3719fd4b0f1"
     },
     {
       "studyId": "introducing_genesis_v001",
@@ -371,7 +371,7 @@
       "type": "pathway",
       "title": "Fighting Sin",
       "file": "bundles/path-fighting-sin.zip",
-      "size": 754332,
+      "size": 754344,
       "studyIds": [
         "introducing_ephesians_v001",
         "find_rest_v001",
